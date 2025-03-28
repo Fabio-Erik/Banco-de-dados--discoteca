@@ -138,5 +138,5 @@
 
     - O sistema deve permitir consultas detalhadas para localizar discos, músicas, artistas e gravadoras, respeitando as regras de integridade.
 
-[![Voltar](../imagens/DER/icons8-voltar-20.png)](../../README.md)
-[Voltar](../../README.md)
+[![Voltar](../imagens/DER/icons8-voltar-20.png)](../README.md)
+[Voltar](../README.md)
