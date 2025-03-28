@@ -6,5 +6,5 @@ A modelagem conceitual é a fase de representação abstrata de um sistema de ba
 
 ![Diagrama ER](../imagens/modelo%20conceitual%201.0.png)
 
-[![Voltar](../imagens/DER/icons8-voltar-20.png)](../../README.md)
-[Voltar](../../README.md)
+[![Voltar](../imagens/DER/icons8-voltar-20.png)](../README.md)
+[Voltar](../README.md)
