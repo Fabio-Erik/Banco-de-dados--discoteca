@@ -15,5 +15,5 @@ Esses relacionamentos ajudam a definir como as entidades interagem e a estrutura
 
 ![Diagrama ER](../imagens/modelo%20conceitual%201.1.png)
 
-[![Voltar](../imagens/DER/icons8-voltar-20.png)](../../README.md)
-[Voltar](../../README.md)
+[![Voltar](../imagens/DER/icons8-voltar-20.png)](../README.md)
+[Voltar](../README.md)
