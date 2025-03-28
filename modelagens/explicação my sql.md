@@ -55,6 +55,6 @@ Em resumo, o INSERT INTO adiciona dados às tabelas e os valores dos campos deve
 
 
 
-[![Voltar](../imagens/DER/icons8-voltar-20.png)](../../README.md)
-[Voltar](../../README.md)
+[![Voltar](../imagens/DER/icons8-voltar-20.png)](../README.md)
+[Voltar](../README.md)
 
