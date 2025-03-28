@@ -10,5 +10,5 @@ Aqui está uma pequena demonstração de um script com os codigos de criação e
 ![codigo](../imagens/banco%20de%20dados.png)
 
 
-[![Voltar](../imagens/DER/icons8-voltar-20.png)](../../README.md)
-[Voltar](../../README.md)
+[![Voltar](../imagens/DER/icons8-voltar-20.png)](../README.md)
+[Voltar](../README.md)
